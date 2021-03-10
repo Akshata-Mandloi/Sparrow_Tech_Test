@@ -1,0 +1,6 @@
+1)Update value of key ‘b’  by ‘banana’ where value is ‘mango’ 
+a =[{“a”: “hello”, “b”: “hii”},{“a”: “apple”, “b”: “mango”}]
+
+
+2) print  ‘hi’ when pass to all objects of the list but in case of ‘d’ print ‘good morning’
+a= [‘z’, ‘b’, ‘h’, ‘r’, ‘j’, ‘d’, ‘k’, ‘m’]
